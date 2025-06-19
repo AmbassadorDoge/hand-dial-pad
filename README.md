@@ -1,1 +1,1 @@
-# auto-dial-macro
+# hand-dial-pad
