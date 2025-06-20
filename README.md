@@ -15,3 +15,7 @@ Anyways, here's a rundown of this hackpad. I play Minecraft without sprint lock,
 ![view](Pictures/Screenshot%202025-06-19%20at%207.50.09 PM.png)
 ![view](Pictures/Screenshot%202025-06-19%20at%207.50.23 PM.png)
 ![view](Pictures/Screenshot%202025-06-19%20at%207.50.33 PM.png)
+
+
+## BOM
+4x switches, 4x caps, 2x encoders, 4x leds, 1x XIAO RP2040, 1x 3DP case
